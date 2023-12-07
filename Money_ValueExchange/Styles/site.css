@@ -1,0 +1,31 @@
+﻿.mainPage{
+    background-color: lightyellow;
+}
+.center{
+    text-align:center;
+
+}
+p{
+    font-family:'Lucida Console';
+    font-size:12px;
+    color:red;
+    
+}
+.pad {
+    padding: 70px;
+    font-family: 'Lucida Console';
+   font-size:25px;
+}
+#InputCashID{
+    width:200px;
+}
+#BtnEnterID {
+    height: 35px;
+    text-align: center;
+}
+#MathWork{
+   
+    font-weight:bold;
+}
+
+
